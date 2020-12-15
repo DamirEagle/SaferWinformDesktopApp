@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaferAlg", "SaferAlg.csproj", "{31660306-B1DB-42CF-966D-37D91FBD2D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31660306-B1DB-42CF-966D-37D91FBD2D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31660306-B1DB-42CF-966D-37D91FBD2D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31660306-B1DB-42CF-966D-37D91FBD2D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31660306-B1DB-42CF-966D-37D91FBD2D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C7E3AB-7C58-4F74-A79C-48BA38D61EC4}
+	EndGlobalSection
+EndGlobal
